@@ -1,2 +1,2 @@
 # FootballTournamentSimulator
-Old Java project for the triennal
+Old Java project for the triennale.
